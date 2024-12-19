@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\data\\inventorytrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:data\\inventorytrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\migrations\\20241219155247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:migrations\\20241219155247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\views\\inventorytracker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:views\\inventorytracker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|c:\\users\\sylvia\\practice\\inventorytracker\\controllers\\inventorytrackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FF270-C509-47DC-9DEF-0729329B6C3F}|InventoryTracker.csproj|solutionrelative:controllers\\inventorytrackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:08:35.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:57:24.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:46:20.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T15:49:17.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Data\\InventoryTrackerContext.cs",
+              "RelativeDocumentMoniker": "Data\\InventoryTrackerContext.cs",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Data\\InventoryTrackerContext.cs",
+              "RelativeToolTip": "Data\\InventoryTrackerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:38:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241219155247_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Migrations\\20241219155247_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241219155247_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Migrations\\20241219155247_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241219155247_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:52:48.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Models\\Inventory.cs",
+              "RelativeToolTip": "Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:30:17.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Controllers\\InventoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoriesController.cs",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Controllers\\InventoriesController.cs",
+              "RelativeToolTip": "Controllers\\InventoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:51:42.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Views\\InventoryTracker\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\InventoryTracker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Views\\InventoryTracker\\Index.cshtml",
+              "RelativeToolTip": "Views\\InventoryTracker\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T15:36:27.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryTrackerController.cs",
+              "DocumentMoniker": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Controllers\\InventoryTrackerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryTrackerController.cs",
+              "ToolTip": "C:\\Users\\Sylvia\\Practice\\InventoryTracker\\Controllers\\InventoryTrackerController.cs",
+              "RelativeToolTip": "Controllers\\InventoryTrackerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:29:34.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
